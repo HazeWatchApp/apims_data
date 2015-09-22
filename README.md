@@ -10,7 +10,7 @@ Look ma! No databases!
 
 ### How do I use this data?
 
-You can clone this repository and issue a git pull command to get the latest data.
+You can clone/fork this repository and issue a ```git pull``` command to get the latest data.
 
 ### What can I build using this data?
 
