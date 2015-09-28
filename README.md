@@ -1,6 +1,6 @@
 # Malaysia Haze Watch Data Feed
 
-The Malaysia air pollution index (API) data feed is presented in a static JSON file. Simple, effective and uses very low resources. 
+Malaysia Haze Watch data feed is presented by a static JSON file that is updated regularly. This data feed contains the latest Air Pollution Index (API) readings from a reliable source.
 
 ## Usage
 
