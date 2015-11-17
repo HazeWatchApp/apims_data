@@ -22,6 +22,10 @@ We're using it to build an [Android app](https://play.google.com/store/apps/deta
 
 [Ivan Loh](https://github.com/scr1p7ed) built a [Telegram bot](https://telegram.me/myhazewatchbot). The source code is available [here](https://github.com/HazeWatchApp/HazeWatchTelegramBot).
 
+[Kai Hendry](https://github.com/kaihendry) built a [Ractive.js application](http://my.dabase.com/). The source code is available [here](https://github.com/kaihendry/pjhaze).
+
+[Azuan](https://github.com/alienxp03) built an [iOS application](https://itunes.apple.com/us/app/haze-malaysia/id1050882175?ls=1&mt=8). The source code is available [here](https://github.com/alienxp03/hazemalaysia).
+
 Should you build an application using this data feed, we encourage you to make the source code available for other developers to learn from you. [Open a ticket and submit the link to your source code repository](https://github.com/HazeWatchApp/apims_data/issues).
 
 ### Is this free?
